@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Shasidu Malshan Fernando </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Shasidu Malshan I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -29,27 +29,34 @@
 
 
 <br>
+<br>
+<br>
 
 ## 🌐 Socials:
+
 <p align="center">
-  <a href="https://facebook.com/https://web.facebook.com/profile.php?viewas=100000686899395&id=100069418788152">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+  
+  <a href="https://facebook.com/yourprofile">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/malshan_shasidu/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  <a href="https://instagram.com/yourprofile">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shasidu-malshan-5978bb222/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/https://x.com/ShasiduM55723">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (formerly Twitter)">
+  <a href="https://x.com/yourprofile">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
   </a>
   <a href="mailto:shasidumalshan9579@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  
 </p>
 
-<br>
+
+
+
 
 # 💻 Tech Stack:
 <p align="center">
