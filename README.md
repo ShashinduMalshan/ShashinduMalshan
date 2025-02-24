@@ -47,7 +47,7 @@
     <img src="assets/icons8-linkedin.svg" alt="LinkedIn" width="52px" height="50px">
   </a>
   <a href="https://x.com/ShasiduM55723">
-    <img src="assets/icons8-x (1).svg" alt="X (formerly Twitter)" width="52px" height="50px">
+    <img src="assets/icons8-x (1).svg" alt="X (formerly Twitter)" width="49px" height="47px">
   </a>
   <a href="mailto:shasidumalshan9579@gmail.com">
     <img src="assets/icons8-gmail.svg" alt="Email" width="52px" height="50px">
