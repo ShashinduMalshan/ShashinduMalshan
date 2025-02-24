@@ -37,16 +37,16 @@
 
 <p align="center">
   
-  <a href="[https://facebook.com/yourprofile](https://web.facebook.com/profile.php?id=100069418788152)">
+  <a href="https://web.facebook.com/profile.php?id=100069418788152">
     <img src="assets/icons8-facebook-logo.svg" alt="Facebook" width="52px" height="50px">
   </a>
-  <a href="[https://instagram.com/yourprofile](https://www.instagram.com/malshan_shasidu/)">
+  <a href="https://www.instagram.com/malshan_shasidu/">
     <img src="assets/icons8-instagram.svg" alt="Instagram" width="52px" height="50px">
   </a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shasidu-malshan-5978bb222/)">
+  <a href="https://www.linkedin.com/in/shasidu-malshan-5978bb222/">
     <img src="assets/icons8-linkedin.svg" alt="LinkedIn" width="52px" height="50px">
   </a>
-  <a href="[https://x.com/yourprofile](https://x.com/ShasiduM55723)">
+  <a href="https://x.com/ShasiduM55723">
     <img src="assets/icons8-x (1).svg" alt="X (formerly Twitter)" width="52px" height="50px">
   </a>
   <a href="mailto:shasidumalshan9579@gmail.com">
