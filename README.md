@@ -14,7 +14,7 @@
 <table>
   <tr>
     <picture>
-      <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611cww9wr7kmebboc4xxbxxqoxtcj1us91hy6ijcygw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="346px">
+      <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611cww9wr7kmebboc4xxbxxqoxtcj1us91hy6ijcygw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="339px">
     </picture>
     <td>
       🏫 I am a Student at the Institute of Software Engineering.<br><br>
