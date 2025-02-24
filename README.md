@@ -1,12 +1,19 @@
-<h1 align="center"><b>Hi , I'm shasidu malshan Fernando </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Shasidu Malshan Fernando </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=cyan&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student%2C;Active+Learner%2FResearcher%2C;Bringing+Ideas+to+Life+with+Code+%3C%2F%3E....;Every+Bug+is+a+Puzzle...+Solving+%F0%9F%9B%A0%EF%B8%8F"></a>
-</p>#
+</p>
 
-💫 About Me:
-🏫 I am a Student at the Institute of Software Engineering.<br><br>� I’m currently learning Computer Science and Software Engineering.<br><br>🤓 Always learning new things and exploring the world of technology.<br><br>🤔 I’m currently open for a new job opportunity or internship.<br><br>💥 Check out my [PORTFOLIO] (add your portfolio link here).
+<br>
 
+## 💫 About Me:
+🏫 I am a Student at the Institute of Software Engineering.<br><br>
+🧑‍🎓 I’m currently learning Computer Science and Software Engineering.<br><br>
+🤓 Always learning new things and exploring the world of technology.<br><br>
+🤔 I’m currently open for a new job opportunity or internship.<br><br>
+💥 Check out my [PORTFOLIO] (add your portfolio link here).
+
+<br>
 
 ## 🌐 Socials:
 <p align="center">
@@ -27,6 +34,8 @@
   </a>
 </p>
 
+<br>
+
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -46,19 +55,32 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-# 📊 GitHub Stats:
+<br>
+
+# 📊 GitHub Stats:<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShashinduMalshan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <br/>
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashinduMalshan&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-  <br/>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashinduMalshan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShashinduMalshan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</p>
+
+<br>
+
+## 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ShashinduMalshan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</p>
+
+<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShashinduMalshan&icon=0&color=0)](https://visitcount.itsvg.in)
