@@ -8,12 +8,23 @@
 
 <br>
 
+
+
 ## 💫 About Me:
-🏫 I am a Student at the Institute of Software Engineering.<br><br>
-🧑‍🎓 I’m currently learning Computer Science and Software Engineering.<br><br>
-🤓 Always learning new things and exploring the world of technology.<br><br>
-🤔 I’m currently open for a new job opportunity or internship.<br><br>
-💥 Check out my <a href="https://shasidumalshan.vercel.app/"> PORTFOLIO </a>
+<table>
+  <tr>
+    <picture>
+      <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611cww9wr7kmebboc4xxbxxqoxtcj1us91hy6ijcygw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="412px">
+    </picture>
+    <td>
+      🏫 I am a Student at the Institute of Software Engineering.<br><br>
+      🧑‍🎓 I’m currently learning Computer Science and Software Engineering.<br><br>
+      🤓 Always learning new things and exploring the world of technology.<br><br>
+      🤔 I’m currently open for a new job opportunity or internship.<br><br>
+      💥 Check out my <a href="https://shasidumalshan.vercel.app/">PORTFOLIO</a>.
+    </td>
+  </tr>
+</table>
 
 
 
