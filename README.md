@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Shasidu Malshan I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Shasidu Malshan I do open source!" src="assets/Screenshot from 2025-02-24 17-21-46.png" /></a></p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
