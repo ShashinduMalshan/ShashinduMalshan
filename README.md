@@ -33,27 +33,29 @@
 <br>
 
 ## 🌐 Socials:
+<br>
 
 <p align="center">
   
-  <a href="https://facebook.com/yourprofile">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  <a href="[https://facebook.com/yourprofile](https://web.facebook.com/profile.php?id=100069418788152)">
+    <img src="assets/icons8-facebook-logo.svg" alt="Facebook" width="52px" height="50px">
   </a>
-  <a href="https://instagram.com/yourprofile">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="[https://instagram.com/yourprofile](https://www.instagram.com/malshan_shasidu/)">
+    <img src="assets/icons8-instagram.svg" alt="Instagram" width="52px" height="50px">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shasidu-malshan-5978bb222/)">
+    <img src="assets/icons8-linkedin.svg" alt="LinkedIn" width="52px" height="50px">
   </a>
-  <a href="https://x.com/yourprofile">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
+  <a href="[https://x.com/yourprofile](https://x.com/ShasiduM55723)">
+    <img src="assets/icons8-x (1).svg" alt="X (formerly Twitter)" width="52px" height="50px">
   </a>
   <a href="mailto:shasidumalshan9579@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="assets/icons8-gmail.svg" alt="Email" width="52px" height="50px">
   </a>
   
 </p>
 
+<br>
 
 
 
