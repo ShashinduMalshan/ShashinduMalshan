@@ -1,4 +1,4 @@
-<p align="center"><a href="https://shasidumalshan.vercel.app/"><img width="80%" alt="Hello, I'm Shasidu Malshan I do open source!" src="assets/Pasted_image-removebg-preview (1).png" /></a></p>
+<p align="center"><a href="https://shasidumalshan.vercel.app/"><img width="60%" alt="Hello, I'm Shasidu Malshan I do open source!" src="assets/Pasted_image-removebg-preview (1).png" /></a></p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
