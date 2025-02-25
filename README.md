@@ -78,15 +78,14 @@
 
 <br>
 
-# 📊 GitHub Stats:<br>
+# 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashinduMalshan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashinduMalshan&show_icons=true&theme=dark" alt="GitHub Stats">
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashinduMalshan&theme=dark&hide_border=false" alt="GitHub Streak Stats">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashinduMalshan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
-
 <br>
 
 ## ✍️ Random Dev Quote
