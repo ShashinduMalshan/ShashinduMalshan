@@ -21,7 +21,7 @@
       🧑‍🎓 I’m currently learning Computer Science and Software Engineering.<br><br>
       🤓 Always learning new things and exploring the world of technology.<br><br>
       🤔 I’m currently open for a new job opportunity or internship.<br><br>
-      💥 Check out my <a href="https://shasidumalshan.vercel.app/">PORTFOLIO</a>.
+      💥 Check out my <a href="https://shashindumalshan.github.io/My-Portfolio/">PORTFOLIO</a>.
     </td>
   </tr>
 </table>
