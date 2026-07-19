@@ -1,10 +1,6 @@
 <p align="center"><a href="https://shasidumalshan.vercel.app/"><img width="40%" alt="Hello, I'm Shasidu Malshan I do open source!" src="assets/Pasted_image-removebg-preview (1).png" /></a></p>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=808080&center=true&vCenter=true&width=800&height=100&lines=Computer+Science+Student;Aspiring+Software+Engineer+and+Problem+Solver;Exploring+AI%2C+Machine+Learning%2C+and+Data+Science;Turning+Passion+into+Projects+and+Projects+into+Progress;Coffee+☕+is+my+fuel+for+coding;Debugging+by+day%2C+gaming+by+night+🎮">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&height=60&lines=Computer+Science+Student;Aspiring+Software+Engineer;Exploring+AI%2C+ML+%26+Data+Science;Building+Things+That+Matter;Open+To+Work+%2F+Internships" alt="Typing SVG" />
 
 <br>
 
